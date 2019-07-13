@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food Rescue</string>
+    <string name="btnRegister">REGISTER USER</string>
+    <string name="alreadyregister">Already Registered? Please Sign In Here</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="textViewForgotPassword">Forgot Password?</string>
+    <string name="txtViewRegister">Register Account</string>
+    <string name="btnResetPassword">Reset Password</string>
+    <string name="txtViewBackHome">Login Page</string>
+    <string name="form">Food Rescue is a program where we bring people together that are passionate about reducing food waste in Singapore. We re-distribute unwanted food to whoever that is willing to consume it.</string>
+    <string name="form1">Steps on how to join the program:</string>
+    <string name="form3">1. Fill up the form given in this app</string>
+    <string name="form4">2. Wait for the confirmation reply via Whatsapp, it can take up to 2 to 3 working days</string>
+    <string name="form5">3. If successful, you will be added to a group chat else you will be added to another group chat (waiting list) due to high demand </string>
+    <string name="btnNext">NEXT</string>
+
+
+</resources>
